@@ -13,7 +13,7 @@ I'm Jacob Charles H. Javiña, a passionate software developer and gamer
 
 - Programming Languages: JavaScript, Java and C#
 - Front-end: HTML and CSS
-- Databases: MySQL, MongoDB
+- Databases: MySQL
 - Tools: Git and VSCode
 
 ## 📫 Get in touch
