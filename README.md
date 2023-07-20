@@ -8,9 +8,6 @@ I'm Jacob Charles H. Javiña, a passionate software developer and gamer
 - ⚡ Fun fact: I am 21 years old BSIT student from Batangas Philippines
 
 ## 🛠️ Technologies & Tools
-
-[Add a list of technologies and tools you are familiar with. For example:]
-
 - Programming Languages: JavaScript, Java and C#
 - Front-end: HTML and CSS
 - Databases: MySQL
