@@ -5,7 +5,7 @@ I'm Jacob Charles H. Javiña, a passionate software developer and gamer
 - 🌱 I’m currently learning CSS, HTML and JavaScript.
 - 💬 Ask me about HTML and CSS problems.
 - 📫 How to reach me: jacobjavina4@gmail.com
-- ⚡ Fun fact: [Interesting or quirky fact about yourself].
+- ⚡ Fun fact: I am 21 years old BSIT student from Batangas Philippines
 
 ## 🛠️ Technologies & Tools
 
